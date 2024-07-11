@@ -1,7 +1,7 @@
 # lc_paper
 ![Alt text](https://github.com/ziahasanz/lc_paper/blob/main/snRNA-seq%20Data%20Analysis%20workflow.png)
 
-1. The FASTQ files of each sample are processed using Cell Ranger v7.2 (10x Genomics).
+1. The FASTq files of each sample are processed using Cell Ranger v7.2 (10x Genomics).
 
 2 & 3. The Cell Ranger output files (filtered_matrix.h5) for each sample are utilized for the next step in the analysis.
 
