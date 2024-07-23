@@ -1,4 +1,4 @@
-# Locus coeruleus vulnerability to tau hyperphosphorylation in a rat model
+# Single nuclei RNA sequencing (snRNA-Seq) data analysis workflow for Locus coeruleus vulnerability to tau hyperphosphorylation in a rat model
 ![Alt text](https://github.com/ziahasanz/lc_paper/blob/main/snRNA-seq%20Data%20Analysis%20workflow.png)
 
 1. The FASTq files of each sample are processed using Cell Ranger v7.2 (10x Genomics).
