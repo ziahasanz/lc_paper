@@ -11,3 +11,11 @@ This repository hosts all codes used for analyzing snRNA-Seq datasets in this st
 5. The processed files for each sample are aggregated into a single file (LCRMCV1.h5ad).
 
 6. The aggregated file is then used for downstream analysis and figure generation.
+
+**Research Paper Title: Locus coeruleus vulnerability to tau hyperphosphorylation in a rat model**
+
+Link: https://onlinelibrary.wiley.com/doi/10.1111/acel.14405
+
+_To cite this paper:_
+
+Omoluabi, T., Hasan, Z., Piche, J. E., Flynn, A. R., Doré, J. J., Walling, S. G., ... & Yuan, Q. (2024). Locus coeruleus vulnerability to tau hyperphosphorylation in a rat model. Aging Cell, e14405.
